@@ -1,0 +1,37 @@
+[
+  {
+    "settingCategory": "projet_settings",
+    "settingKey": "projet_type",
+    "settingValue": ["invoice"],
+    "valueType": "array",
+    "isCoreSetting": true,
+    "isPrivate": false
+  },
+  {
+    "settingCategory": "projet_settings",
+    "settingKey": "projet_status",
+    "settingValue": [
+      "draft",
+      "progress",
+      "terminated",
+      "retard"
+    ],
+    "valueType": "array",
+    "isCoreSetting": true,
+    "isPrivate": false
+  },
+  {
+    "settingCategory": "projet_settings",
+    "settingKey": "projet_ville",
+    "settingValue": ["nantue", "paris"],
+    "valueType": "array",
+    "isCoreSetting": true,
+    "isPrivate": false
+  }
+  
+ 
+
+ 
+
+
+]
